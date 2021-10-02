@@ -4,7 +4,7 @@
     "replaces": "Market",
     "uniqueTo": "Kingdom",
     "gold": 20,
-    "culture": 2,
+    "culture": 20,
     "specialistSlots": {"Merchant": 1},
     "hurryCostModifier": 25,
     "percentStatBonus": {"gold": 25},
