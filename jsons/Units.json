@@ -1,0 +1,15 @@
+[
+{
+    "name": "Pathfinder", //modded
+    "unitType": "Scout",
+    "replaces": "Scout",
+    "uniqueTo": "Kingdom",
+    "movement": 5,
+    "strength": 80,
+    "upgradesTo": "Giant Death Robot",
+    "cost": 5,
+    "obsoleteTech": "Scientific Theory",
+    "uniques": ["Ignores terrain cost"],
+    "attackSound": "nonmetalhit"
+  }
+]
